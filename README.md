@@ -27,8 +27,13 @@ A simple 4-DOF robotic arm built as a learning project to understand basics of s
 ## 🚀 Getting Started
 
 ### Installation
-1. Download or clone this repository
-2. Open the `.ino` file in Arduino IDE
+
+1. Clone this repository
+```bash
+git clone https://github.com/Aryanpanwar10005/robotic_arm_4dof.git
+```
+
+2. Open `robotic_arm_4dof.ino` file in Arduino IDE
 3. Select your Arduino board from Tools menu
 4. Select the correct COM port
 5. Click Upload
@@ -54,7 +59,6 @@ A simple 4-DOF robotic arm built as a learning project to understand basics of s
 - **Control:** Manual buttons or serial commands
 
 ## 🔧 How It Works
-
 Simple servo control:
 - **Base servo:** Rotates left and right
 - **Shoulder servo:** Moves arm up and down
@@ -99,8 +103,8 @@ This is my first robotics project made for learning. It's simple and has limitat
 Electronics & Communication Engineering Student  
 MIET Meerut (2022-2026)
 
-📧 aryanpanwar10005@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/aryan-panwar-b5322b269)  
+📧 [aryanpanwar10005@gmail.com](mailto:aryanpanwar10005@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/aryan-panwar-b5322b269)  
 🐙 [GitHub](https://github.com/Aryanpanwar10005)
 
 ## 📞 Contact
