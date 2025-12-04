@@ -1,0 +1,58 @@
+# Arduino build files
+*.hex
+*.eep
+*.elf
+*.map
+
+# Arduino IDE files
+*.autosave
+*.bak
+*~
+*.tmp
+
+# Build directory
+build/
+.build/
+
+# Arduino library manager
+libraries/
+!libraries/README.md
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.orig
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Debug files
+*.log
+*.dmp
+
+# Temporary files
+*.temp
+*.cache
