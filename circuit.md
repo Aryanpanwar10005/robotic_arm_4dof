@@ -186,4 +186,8 @@ Some servos might have different colors, but the position is always the same.
 
 ---
 
+> **Note:** Diagrams in this guide were created with AI assistance.
+
+---
+
 *Need help? Check the main README or ask questions!*
