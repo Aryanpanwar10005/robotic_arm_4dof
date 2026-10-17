@@ -82,10 +82,10 @@ Arduino sends angle commands to each servo. That's it!
 - Learn inverse kinematics
 
 ## 🛡️ Safety Features
-- Angle limits so servos don't break
-- Safe starting position
-- Slow movements to avoid jerking
-- Emergency stop button
+- Angle commands outside 0-180° are rejected
+- The arm moves to a known home position (all joints at 90°) at power-up
+- The home move steps one joint at a time, with a short pause between joints
+- No software emergency stop yet: switch off the servo supply to stop the arm
 
 ## ⚠️ Limitations
 - **Only for light objects** - cannot lift heavy things
