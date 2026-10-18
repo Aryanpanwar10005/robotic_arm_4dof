@@ -103,7 +103,7 @@ This is my first robotics project made for learning. It's simple and has limitat
 Electronics & Communication Engineering Student  
 MIET Meerut (2022-2026)
 
-📧 [aryanpanwar10005@gmail.com](mailto:aryanpanwar10005@gmail.com)  
+📧 [aryanpanwar12311@gmail.com](mailto:aryanpanwar12311@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/aryan-panwar-b5322b269)  
 🐙 [GitHub](https://github.com/Aryanpanwar10005)
 
